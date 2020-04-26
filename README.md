@@ -1,2 +1,2 @@
 # peg-out-hole-reinforcement-learning
-# run subscriber.py
+# Please run subscriber.py
